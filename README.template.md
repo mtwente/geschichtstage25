@@ -1,27 +1,20 @@
-# REPO_NAME
+# Städte bauen, Gesellschaft formen
 
-This repository contains SHORT_DESCRIPTION. The data in this repository is openly available to everyone and is intended to support reproducible research.
+This repository contains extended abstracts for the panel _Städte bauen, Gesellschaft formen_, part of the Swiss Congress of Historical Sciences 2025 at the University of Lucerne. The data in this repository is openly available to everyone and is intended to support reproducible research.
 
-[![GitHub issues](https://img.shields.io/github/issues/USERNAME/REPO_NAME.svg)](https://github.com/USERNAME/REPO_NAME/issues)
-[![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO_NAME.svg)](https://github.com/USERNAME/REPO_NAME/network)
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME.svg)](https://github.com/USERNAME/REPO_NAME/stargazers)
-[![Code license](https://img.shields.io/github/license/USERNAME/REPO_NAME.svg)](https://github.com/USERNAME/REPO_NAME/blob/main/LICENSE-AGPL.md)
-[![Data license](https://img.shields.io/github/license/USERNAME/REPO_NAME.svg)](https://github.com/USERNAME/REPO_NAME/blob/main/LICENSE-CCBY.md)
+[![GitHub issues](https://img.shields.io/github/issues/mtwente/geschichtstage25.svg)](https://github.com/mtwente/geschichtstage25/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mtwente/geschichtstage25.svg)](https://github.com/mtwente/geschichtstage25/network)
+[![GitHub stars](https://img.shields.io/github/stars/mtwente/geschichtstage25.svg)](https://github.com/mtwente/geschichtstage25/stargazers)
+[![Code license](https://img.shields.io/github/license/mtwente/geschichtstage25.svg)](https://github.com/mtwente/geschichtstage25/blob/main/LICENSE-AGPL.md)
+[![Data license](https://img.shields.io/github/license/mtwente/geschichtstage25.svg)](https://github.com/mtwente/geschichtstage25/blob/main/LICENSE-CCBY.md)
 [![DOI](https://zenodo.org/badge/ZENODO_RECORD.svg)](https://zenodo.org/badge/latestdoi/ZENODO_RECORD)
 
 ## Repository Structure
 
 The structure of this repository follows the [Advanced Structure for Data Analysis](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html) of _The Turing Way_ and is organized as follows:
 
-- `analysis/`: scripts and notebooks used to analyze the data
-- `assets/`: images, logos, etc. used in the README and other documentation
-- `build/`: scripts and notebooks used to build the data
-- `data/`: data files
-- `docs/`: documentation for the data and the repository
-- `project-management/`: project management documents (e.g., meeting notes, project plans, etc.)
-- `src/`: source code for the data (e.g., scripts used to collect or process the data)
-- `test/`: tests for the data and source code
-- `report.md`: a report describing the analysis of the data
+- `abstracts/`: contains the extended abstracts for the panel.
+- `book-of-abstracts.md/`: introduction to the book of abstracts.
 
 ## Data Description
 
@@ -51,16 +44,16 @@ curl -i https://zenodo.org/api/records/ZENODO_RECORD
 
 ## Support
 
-This project is maintained by [@USERNAME](https://github.com/USERNAME). Please understand that we can't provide individual support via email. We also believe that help is much more valuable when it's shared publicly, so more people can benefit from it.
+This project is maintained by [@mtwente](https://github.com/mtwente). Please understand that we can't provide individual support via email. We also believe that help is much more valuable when it's shared publicly, so more people can benefit from it.
 
-| Type                                   | Platforms                                                               |
-| -------------------------------------- | ----------------------------------------------------------------------- |
-| 🚨 **Bug Reports**                     | [GitHub Issue Tracker](https://github.com/USERNAME/REPO_NAME/issues)    |
-| 📊 **Report bad data**                 | [GitHub Issue Tracker](https://github.com/USERNAME/REPO_NAME/issues)    |
-| 📚 **Docs Issue**                      | [GitHub Issue Tracker](https://github.com/USERNAME/REPO_NAME/issues)    |
-| 🎁 **Feature Requests**                | [GitHub Issue Tracker](https://github.com/USERNAME/REPO_NAME/issues)    |
-| 🛡 **Report a security vulnerability** | See [SECURITY.md](SECURITY.md)                                          |
-| 💬 **General Questions**               | [GitHub Discussions](https://github.com/USERNAME/REPO_NAME/discussions) |
+| Type                                   | Platforms                                                                     |
+| -------------------------------------- | ----------------------------------------------------------------------------- |
+| 🚨 **Bug Reports**                     | [GitHub Issue Tracker](https://github.com/mtwente/geschichtstage25/issues)    |
+| 📊 **Report bad data**                 | [GitHub Issue Tracker](https://github.com/mtwente/geschichtstage25/issues)    |
+| 📚 **Docs Issue**                      | [GitHub Issue Tracker](https://github.com/mtwente/geschichtstage25/issues)    |
+| 🎁 **Feature Requests**                | [GitHub Issue Tracker](https://github.com/mtwente/geschichtstage25/issues)    |
+| 🛡 **Report a security vulnerability** | See [SECURITY.md](SECURITY.md)                                                |
+| 💬 **General Questions**               | [GitHub Discussions](https://github.com/mtwente/geschichtstage25/discussions) |
 
 ## Roadmap
 
@@ -72,13 +65,14 @@ All contributions to this repository are welcome! If you find errors or problems
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. The available versions are listed in the [tags on this repository](https://github.com/USERNAME/REPO_NAME/tags).
+We use [SemVer](http://semver.org/) for versioning. The available versions are listed in the [tags on this repository](https://github.com/mtwente/geschichtstage25/tags).
 
 ## Authors and acknowledgment
 
-- **FULLNAME** - _Initial work_ - [USERNAME](https://github.com/USERNAME)
+- **Moritz Twente** - _Initial work_ - [mtwente](https://github.com/mtwente)
+- **Victoria Grau** - _Research_
 
-See also the list of [contributors](https://github.com/USERNAME/REPO_NAME/graphs/contributors) who contributed to this project.
+See also the list of [contributors](https://github.com/mtwente/geschichtstage25/graphs/contributors) who contributed to this project.
 
 ## License
 

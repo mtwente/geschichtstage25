@@ -68,10 +68,10 @@ npm run prepare
 
 2. Complete the following checklist of tasks to customize the template for your project:
 
-- [ ] enable [GitHub security alerts](https://github.blog/2017-11-16-introducing-security-alerts-on-github/)
-- [ ] [protect](https://help.github.com/en/articles/configuring-protected-branches) the main branch to enforce a [fork and pull](https://gist.github.com/Chaser324/ce0505fbed06b947d962) workflow
-- [ ] search and replace `FULLNAME`, `USERNAME`, `REPO_NAME`, `SHORT_DESCRIPTION` `[INSERT CONTACT METHOD]` in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [package.json](package.json), [README.template.md](README.template.md), [SECURITY.md](SECURITY.md)
-- [ ] setup the [Zenodo integration](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
+- [x] enable [GitHub security alerts](https://github.blog/2017-11-16-introducing-security-alerts-on-github/)
+- [x] [protect](https://help.github.com/en/articles/configuring-protected-branches) the main branch to enforce a [fork and pull](https://gist.github.com/Chaser324/ce0505fbed06b947d962) workflow
+- [x] search and replace `Moritz Twente`, `mtwente`, `geschichtstage25`, `This repository contains extended abstracts for the panel *Städte bauen, Gesellschaft formen*, part of the Swiss Congress of Historical Sciences 2025 at the University of Lucerne` `[moritz.twente@unibas.ch]` in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [package.json](package.json), [README.template.md](README.template.md), [SECURITY.md](SECURITY.md)
+- [x] setup the [Zenodo integration](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 - [ ] add `ZENODO_RECORD` to [README.md](README.md)
 - [ ] add favicons to `./`, e.g. via [favicon.io](https://favicon.io/)
 - [ ] search for `TODO` in the project (mostly documentation) and fix it
@@ -87,7 +87,7 @@ npm run prepare
 
 3. optional tasks:
 
-- [ ] add a `CITATION.CFF` according to [citation-file-format.github.io](https://citation-file-format.github.io/)
+- [x] add a `CITATION.CFF` according to [citation-file-format.github.io](https://citation-file-format.github.io/)
 - [ ] add a `.zenodo.json` according to [zenodo.org](https://developers.zenodo.org/?python#add-metadata-to-your-github-repository-release)
 
 ## Use
