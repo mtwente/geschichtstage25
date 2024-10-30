@@ -1,1 +1,150 @@
 /* css styles */
+/* jost-regular - latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 400;
+	src: url('fonts/jost-v15-latin-regular.woff2') format('woff2');
+	/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* jost-italic - latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Jost';
+	font-style: italic;
+	font-weight: 400;
+	src: url('fonts/jost-v15-latin-italic.woff2') format('woff2');
+	/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* jost-600 - latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 600;
+	src: url('fonts/jost-v15-latin-600.woff2') format('woff2');
+	/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* jost-600italic - latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Jost';
+	font-style: italic;
+	font-weight: 600;
+	src: url('fonts/jost-v15-latin-600italic.woff2') format('woff2');
+	/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* jost-700 - latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 700;
+	src: url('fonts/jost-v15-latin-700.woff2') format('woff2');
+	/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* jost-700italic - latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Jost';
+	font-style: italic;
+	font-weight: 700;
+	src: url('fonts/jost-v15-latin-700italic.woff2') format('woff2');
+	/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/*-- scss:defaults --*/
+
+.footer {
+	display: none;
+}
+
+.navbar a:hover {
+	color: inherit;
+	text-decoration: underline;
+	text-decoration-color: #ff3cc7;
+	text-decoration-thickness: 3px;
+}
+
+.navbar li.nav-item a.nav-link {
+	color: #181818;
+}
+
+.quarto-category {
+	color: #181818;
+}
+
+::selection {
+	background-color: #a5d7d2;
+}
+
+.sidebar-navigation {
+	overflow: scroll;
+	scrollbar-color: #a5d7d2 white;
+	scrollbar-width: thin;
+}
+
+/* General print styles */
+@media print {
+	body {
+		padding: 0;
+	}
+	/* Hide navigation, search, and footer elements */
+	#quarto-header nav.navbar,
+	#quarto-code-tools-source,
+	#quarto-back-to-top {
+		display: none;
+	}
+
+	/* Set margins for A4 paper */
+	@page {
+		size: A4;
+		margin: 2cm;
+	}
+
+	/* Page breaks to ensure proper structure */
+	#title-block-header {
+		page-break-after: always;
+	}
+
+	figure {
+		page-break-inside: avoid;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-after: avoid;
+	}
+
+	/* Prevent orphans and widows */
+	p,
+	h1,
+	h2,
+	h3 {
+		widows: 2;
+		orphans: 2;
+	}
+
+	/* Ensure that background colors and images are printed */
+	body {
+		background-color: white;
+		/* Ensures clean background */
+		-webkit-print-color-adjust: exact;
+	}
+}
