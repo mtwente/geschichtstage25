@@ -19,32 +19,36 @@ website:
   navbar:
     logo: android-chrome-512x512.png
     logo-alt: ''
-    title: geschichtstage25
+    title: Geschichtstage 2025
     tools:
       - icon: github
         url: https://github.com/mtwente/geschichtstage25/
     left:
-      - text: Readme
-        href: index.qmd
-      - text: Report
-        href: report.md
+      - text: Panel
+        href: docs/panel.qmd
+      - text: Beiträge
+        href: docs/paper.qmd
+      - text: Über
+        href: docs/about.qmd
 
   sidebar:
     contents:
-      - section: geschichtstage25
+      - section: Kleingedrucktes
         href: index.qmd
         contents:
+          - text: Readme
+            href: README.md
           - text: Changelog
             href: CHANGELOG.md
           - text: Code of Conduct
             href: CODE_OF_CONDUCT.md
-          - text: Contributing
+          - text: Änderungsvorschläge
             href: CONTRIBUTING.md
-          - text: License (Data)
+          - text: Lizenz (Daten)
             href: LICENSE-CCBY.md
-          - text: License (Code)
+          - text: Lizenz (Code)
             href: LICENSE-AGPL.md
-          - text: Security
+          - text: Sicherheit
             href: SECURITY.md
       - href: report.md
         contents: project-management/*
@@ -56,6 +60,9 @@ format:
     code-copy: true
     code-overflow: wrap
     css: styles.css
+    mainfont: Jost
+    fontcolor: '#181818'
+    linkcolor: '#3961AA'
 
 freeze: true
 
