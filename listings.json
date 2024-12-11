@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/docs/paper.html",
+    "items": [
+      "/docs/abstracts/marti.html",
+      "/docs/abstracts/zeichenautomaten.html",
+      "/docs/abstracts/hillsideterrace.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/docs/abstracts/marti.html",
+      "/docs/abstracts/zeichenautomaten.html",
+      "/docs/abstracts/hillsideterrace.html"
+    ]
+  }
+]
