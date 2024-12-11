@@ -1,0 +1,22 @@
+---
+title: 'Beiträge'
+lang: de
+listing:
+  - id: paper
+    type: grid
+    contents:
+      - abstracts/*.qmd
+    fields: [title, subtitle, author]
+    field-display-names: 
+      author: 'Autor*innen'
+      subtitle: ' '
+    sort: "id"
+    page-size: 3
+
+date-modified: last-modified
+---
+
+## Paper
+
+:::{#paper}
+:::

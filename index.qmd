@@ -3,32 +3,22 @@ title: 'Städte bauen, Gesellschaft formen'
 lang: de
 listing:
   - id: paper
-    type: table
+    type: grid
     contents:
-      - abstracts/*/index.qmd
-    fields: [title, author]
+      - docs/abstracts/*.qmd
+    fields: [title, subtitle, author]
     field-display-names: 
-      author: 'Author(s)'
-    sort: 'categories'
-    sort-ui: [title, author]
-    page-size: 4
+      author: 'Autor*innen'
+      subtitle: ' '
+    sort: "id"
+    page-size: 3
 
 date-modified: last-modified
 description-meta: 'The DigiHistCH24 conference on "Historical Research, Digital Literacy, and Algorithmic Criticism," hosted by the University of Basel on September 12-13, 2024, explores the integration of digital tools and the critical role of algorithms in historical research. This book of abstracts features all presented papers, offering insights into cutting-edge methodologies, software applications, and challenges in digital history.'
 author-meta: "Moritz Twente und Victoria Grau"
 ---
 
-The DigiHistCH24 conference on "Historical Research, Digital Literacy, and Algorithmic Criticism" brings together scholars and professionals to address the evolving role of digital technologies in historical research. Hosted by the University of Basel on September 12--13, 2024, the conference will focus on the integration of digital tools, the importance of digital literacy, and the critical examination of algorithms within the discipline.
-
-This book of abstracts contains all the papers and posters presented at the conference, providing a comprehensive overview of current research at the intersection of history and digital technology. These cover a range of topics, from innovative methodologies and software applications to the challenges of digital data management and algorithmic analysis in historical research.
-
-We are pleased to present this collection, which reflects the state of the art in digital history, and anticipate that the discussions it stimulates will make a significant contribution to the field.
-
-::: {.callout-note}
-## Keynote Streaming
-
-[Join our Zoom live stream](https://unibas.zoom.us/j/67126379145) of Gerben Zaagsma's keynote [*When Literacy Goes Digital: Rethinking the Ethics and Politics of Digitisation*](https://digihistch24.github.io/book-of-abstracts/submissions/keynote/) Thursday at 6pm!
-:::
+... panel description ...
 
 ## Paper
 
