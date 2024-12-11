@@ -16,6 +16,8 @@ listing:
 date-modified: last-modified
 ---
 
+Die Konferenz findet an der Universität Luzern statt. Das Panel dauert 90 Minuten, Zeit und Ort sind aktuell noch nicht festgelegt (Stand: Dezember 2024).
+
 ## Paper
 
 :::{#paper}
