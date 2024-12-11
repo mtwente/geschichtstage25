@@ -25,10 +25,6 @@ citation:
 bibliography: ../assets/panel.bib
 ---
 
-::: {.callout-note appearance="simple"}
-Der folgende Text ist das Abstract zur Session *Städte bauen, Gesellschaft formen* an den [Siebten Schweizerischen Geschichtstagen](https://www.geschichtstage.ch) an der Universität Luzern (07.–11.07.2025).
-:::
-
 Städtebauliche Entwürfe sind nicht nur Visionen für Städte, Bauwerke und Infrastrukturen, sondern verräumlichen Konzepte des menschlichen Zusammenlebens. Solche Entwürfe, Konzepte oder Visionen konfrontieren bestehende Stadtstrukturen mit neuen Ideen, die häufig aus der Kritik an vergangenen Grundsätzen städtischen Zusammenlebens resultieren und Fehlentwicklungen sichtbar machen. In Planung und Gestaltung von Städten materialisieren sich damit gesellschaftspolitische Vorstellungen – ob implizit oder explizit, ob gebaut oder verworfen, ob Basel oder Otelfingen.
 
 Im Rahmen dieses Panels wollen wir Städtebau als gesellschaftliche Vision aus einer geschichtswissenschaftlichen Perspektive untersuchen. Unter der Prämisse, dass Bauvorhaben “Angebote, Gesellschaft [...] in Form zu bringen” [@eisinger_stadt_2005] sind, können wir gesellschaftspolitische Ziele über ihre räumlichen Implikationen im Entwurf erkennen. Städtebauliche Entwürfe sind Austragungsorte politischer Debatten sowie Instrumente zur Formulierung von Machtansprüchen, die in die Lebensrealitäten der Bevölkerung eingreifen.
