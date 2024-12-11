@@ -1,0 +1,29 @@
+---
+title: "Hinter dem Konzept und vor dem Plan"
+subtitle: "Stadtvorstellungen in Hans Martis Skizzensammlung"
+author:
+  - name: Moritz Twente
+    orcid: 0009-0005-7187-9774
+    email: moritz.twente@unibas.ch
+    affiliations:
+      - Universität Basel
+  - name: Victoria Grau
+    orcid: 0000-0003-4194-0835
+    email: victoria.elisabeth.grau@uni-weimar.de
+    affiliations:
+      - Bauhaus-Universität Weimar
+date: 07-09-2025
+date-modified: 10-31-2024
+id: "1"
+lang: de
+citation:
+    type: standard
+    event: Siebte Schweizerische Geschichtstage
+    container-title: 'Siebte Schweizerische Geschichtstage'
+    author:
+    - name: Moritz Twente
+    - name: Victoria Grau
+    issued: 2025-07
+---
+
+Hans Marti gilt als Pionier der hiesigen Stadt-/Raumplanung im 20. Jahrhundert; sein planerisches, politisches und publizistisches Wirken legte einen Grundstein für die Institutionalisierung von Planung in der Schweiz. In diesem Beitrag suchen wir nach (gesellschafts)politischen Implikationen seiner Entwürfe. Um diese sichtbar zu machen, fokussieren wir jedoch nicht Planurkunden und technische Dokumente, sondern von ihm angefertigte Zeichnungen – z.B. flüchtig angefertigte Kritzeleien auf der Rückseite von Sitzungsunterlagen, karikaturistische Skizzen oder künstlerisch anmutende Farb- und Formstudien. Unter der Prämisse, dass Marti mit seinen Konzepten auf räumliche Folgen gesellschaftlicher Entwicklungen reagiert, rückt sein Arbeitsprozess, rücken seine Entwurfsstrategien ins Blickfeld. Indem wir die Zeichnungen als epistemische Werkzeuge im Arbeitsprozess behandeln, werden sie zu einem Baustein seiner Visionen für die räumliche Strukturierung des gesellschaftlichen Zusammenlebens.
