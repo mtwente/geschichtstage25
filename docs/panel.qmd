@@ -1,0 +1,34 @@
+---
+title: "Städte bauen, Gesellschaft formen"
+subtitle: "Entwurf und Vision in der Städtebaugeschichte"
+author:
+  - name: Moritz Twente
+    orcid: 0009-0005-7187-9774
+    email: moritz.twente@unibas.ch
+    affiliations:
+      - Universität Basel
+  - name: Victoria Grau
+    orcid: 0000-0003-4194-0835
+    email: victoria.elisabeth.grau@uni-weimar.de
+    affiliations:
+      - Bauhaus-Universität Weimar
+date: 10-31-2024
+lang: de
+citation:
+    type: standard
+    event: Siebte Schweizerische Geschichtstage
+    container-title: 'Siebte Schweizerische Geschichtstage'
+    author:
+    - name: Moritz Twente
+    - name: Victoria Grau
+    issued: 2025-07
+bibliography: ../assets/panel.bib
+---
+
+Städtebauliche Entwürfe sind nicht nur Visionen für Städte, Bauwerke und Infrastrukturen, sondern verräumlichen Konzepte des menschlichen Zusammenlebens. Solche Entwürfe, Konzepte oder Visionen konfrontieren bestehende Stadtstrukturen mit neuen Ideen, die häufig aus der Kritik an vergangenen Grundsätzen städtischen Zusammenlebens resultieren und Fehlentwicklungen sichtbar machen. In Planung und Gestaltung von Städten materialisieren sich damit gesellschaftspolitische Vorstellungen – ob implizit oder explizit, ob gebaut oder verworfen, ob Basel oder Otelfingen.
+
+Im Rahmen dieses Panels wollen wir Städtebau als gesellschaftliche Vision aus einer geschichtswissenschaftlichen Perspektive untersuchen. Unter der Prämisse, dass Bauvorhaben “Angebote, Gesellschaft [...] in Form zu bringen” [@eisinger_stadt_2005] sind, können wir gesellschaftspolitische Ziele über ihre räumlichen Implikationen im Entwurf erkennen. Städtebauliche Entwürfe sind Austragungsorte politischer Debatten sowie Instrumente zur Formulierung von Machtansprüchen, die in die Lebensrealitäten der Bevölkerung eingreifen.
+
+Durch die Beschäftigung mit historischen Entwürfen, Konzepten und Visionen machen wir divergierende Ideen für die baulich-räumliche Organisation von Gesellschaft sichtbar, die im Entwurfsprozess miteinander konkurrieren: Wie sollte mit Städtebau welche Gesellschaftspolitik betrieben werden und wie gestaltet sich das Verhältnis zwischen Utopie und bereits existierenden Bauten? Welchen Einfluss haben zeitgenössische soziale, kulturelle oder wirtschaftliche Entwicklungen auf städtebauliche Utopien? Welche Akteur*innen bleiben im Gestaltungsprozess unsichtbar bzw. werden im Entwurf marginalisiert?
+
+Für die Annäherung an Städtebaugeschichte spielen Visualisierungen eine wichtige Rolle. Die herkömmlichen Werkzeuge für die Vermittlung von Bauprogrammen sind technische Pläne und Zeichnungen, doch auch Modelle oder bildende Kunst, etwa in Form von u.a. Fotografien und Gemälden sowie sprachliche Bilder haben eine lange Tradition in der Vermittlung städtebaulicher Visionen. Solche Darstellungen eröffnen Zugänge zur Interpretation der gesellschaftlichen Zusammenhänge, die entwerferisch thematisiert bzw. kritisiert werden: Mit welchen Medien wird der Entwurf visualisiert? Wie werden bildliche Darstellungen genutzt, um sozialräumliche Effekte baulicher Massnahmen hervorzuheben oder zu kaschieren? Welche Rolle spielen Visualisierungen für die Legitimation von Bauvorhaben?
