@@ -37,14 +37,14 @@ website:
         href: index.qmd
         contents:
           - text: Readme
-            href: README.md
+            href: docs/readme.qmd
           - text: Changelog
             href: CHANGELOG.md
           - text: Code of Conduct
             href: CODE_OF_CONDUCT.md
           - text: Änderungsvorschläge
             href: CONTRIBUTING.md
-          - text: Lizenz (Daten)
+          - text: Lizenz (Inhalte)
             href: LICENSE-CCBY.md
           - text: Lizenz (Code)
             href: LICENSE-AGPL.md
@@ -56,9 +56,11 @@ website:
 format:
   html:
     toc: true
-    theme: cosmo
+    theme:
+      light: cosmo
     code-copy: true
     code-overflow: wrap
+    link-external-newwindow: true
     css: styles.css
     mainfont: Jost
     fontcolor: '#181818'
