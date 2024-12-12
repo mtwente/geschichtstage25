@@ -7,7 +7,7 @@ author:
     email: mail@janniknoeske.de
     affiliations:
       - Bauhaus-Universität Weimar
-date: 07-09-2025
+date: 07-08-2025
 date-modified: 10-31-2024
 id: "2"
 lang: de
@@ -17,7 +17,7 @@ citation:
     container-title: 'Städte bauen, Gesellschaft formen (Panel an den Siebten Schweizerischen Geschichtstagen)'
     author:
     - name: Jannik Noeske
-    issued: 2025-07-09
+    issued: 2025-07-08
 ---
 
 Mit dem Aufkommen der Elektronischen Datenverarbeitung in den Hochschulen und Verwaltungen ab den 1960er Jahren wurde auch nach Anwendungen der EDV in der räumlichen Planung gesucht. Dies geschah auch in der DDR. Zunächst als Möglichkeit zur Optimierung von Standortkonzeptionen und in der Baumaterialienindustrie eingesetzt, haben sich nach 1967 eine Vielzahl von Anwendungen herausgebildet. Dazu gehörten früh auch schon Möglichkeiten der analytisch-grafischen Repräsentation von Räumen im Sinne der Kartografik, aber auch städtebauliche Entwürfe. Die gesamtgesellschaftliche Rationalisierung, die mit der gezielten Computerisierung der räumlichen Planung einherging, wird anhand des Wirtschaftsraums um Karl-Marx-Stadt/Chemnitz deutlich, der zum Experimentierfeld und Modellfall der digitalen Produktionsverhältnisse der räumlichen und gesellschaftlichen Ordnung im real existierenden Sozialismus wurde – jenseits der simplen Bilder einer kybernetischen Technikutopie. 

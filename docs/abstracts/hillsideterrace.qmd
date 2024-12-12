@@ -7,17 +7,17 @@ author:
     email: ehaeusler@ethz.ch
     affiliations:
       - ETH Zürich
-date: 07-09-2025
+date: 07-08-2025
 date-modified: 10-31-2024
 id: "3"
 lang: de
 citation:
-    type: speech
+    type: standard
     event: Siebte Schweizerische Geschichtstage
     container-title: 'Städte bauen, Gesellschaft formen (Panel an den Siebten Schweizerischen Geschichtstagen)'
     author:
     - name: Eric Häusler
-    issued: 2025-07-09
+    issued: 2025-07-08
 ---
 
-Der japanische Architekt Fumihiko Maki erhielt 1993 für sein «östliche und westliche Kulturen» verbindendes Werk den renommierten Pritzker Preis. In diesem Beitrag wird seine von 1967 bis 1992 in sechs Phasen erbaute «Hillside Terrace» als ein zukunftsweisendes Städtebau-Projekt präsentiert. Zwischen den verschiedenen Bauphasen liess Maki bewusst Zeit verstreichen. Er respektierte damit systematisch die Unsicherheiten hinsichtlich zukünftiger Interessen der Bewohner*innen sowie bautechnologischer und urbaner Entwicklungen. In seinem Planungsprozess bewies er gezielt ‘Mut zur Lücke’. «Hillside Terrace» repräsentiert ein paradigmatisches Beispiel für seine – auf der Idee der «Group Form» basierenden – städtebauliche Vision: Die Priorisierung des menschlichen Massstabs und die Nutzung flexibler Ordnungsmuster. Der in sequenziellen Schritten durchgeführte Gestaltungsprozess offenbart eine wegweisende Antwort auf die grundlegende Unplanbarkeit zukünftiger städtischer Entwicklungen.
+Der japanische Architekt Fumihiko Maki erhielt 1993 für sein «östliche und westliche Kulturen» verbindendes Werk den renommierten Pritzker-Preis. In diesem Beitrag wird seine von 1967 bis 1992 in sechs Phasen erbaute «Hillside Terrace» als ein zukunftsweisendes Städtebau-Projekt präsentiert. Zwischen den verschiedenen Bauphasen liess Maki bewusst Zeit verstreichen. Er respektierte damit systematisch die Unsicherheiten hinsichtlich zukünftiger Interessen der Bewohner*innen sowie bautechnologischer und urbaner Entwicklungen. In seinem Planungsprozess bewies er gezielt ‘Mut zur Lücke’. «Hillside Terrace» repräsentiert ein paradigmatisches Beispiel für seine – auf der Idee der «Group Form» basierenden – städtebauliche Vision: Die Priorisierung des menschlichen Massstabs und die Nutzung flexibler Ordnungsmuster. Der in sequenziellen Schritten durchgeführte Gestaltungsprozess offenbart eine wegweisende Antwort auf die grundlegende Unplanbarkeit zukünftiger städtischer Entwicklungen.
