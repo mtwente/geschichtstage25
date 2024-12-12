@@ -1,26 +1,47 @@
 [
   {
-    "objectID": "SECURITY.html",
-    "href": "SECURITY.html",
-    "title": "Security Policy",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Städte bauen, Gesellschaft formen",
     "section": "",
-    "text": "To report a security issue, please email [moritz.twente@unibas.ch] with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue. This project follows a 90 day disclosure timeline.",
+    "text": "Das Panel Städte bauen, Gesellschaft formen: Entwurf und Vision in der Städtebaugeschichte ist Teil der siebten Schweizerischen Geschichtstage (07.–11.07.2025) an der Universität Luzern. Victoria Grau, Eric Häusler, Jannik Noeske und Moritz Twente präsentieren im Rahmen des Panelprogramms drei Themen an der Schnittstelle von Städtebau-/Planungsgeschichte und Gesellschaftspolitik. Dem Schwerpunkt der Geschichtstage 2025 entsprechend – (Un)sichtbarkeit – liegt der Fokus auf visuellen Aspekten der vorgestellten Projekte.\nDiese Webseite wurde von den Panel-Organisator*innen erstellt, um ausführlichere Abstracts zu den drei Vorträgen anbieten1 und um die Inhalte nach der Veranstaltung zitierfähig archivieren zu können. Fragen zum Panel und zu den Präsentationen beantworten Moritz Twente und Victoria Grau per E-Mail oder auf GitHub. Informationen zum gesamten Tagungsprogramm und zur Teilnahme an der Konferenz sind auf geschichtstage.ch zu finden."
+  },
+  {
+    "objectID": "index.html#beiträge",
+    "href": "index.html#beiträge",
+    "title": "Städte bauen, Gesellschaft formen",
+    "section": "Beiträge",
+    "text": "Beiträge\n\n\n\n\n\n\n\nHinter dem Konzept und vor dem Plan\n\n\nStadtvorstellungen in Hans Martis Skizzensammlung\n\n\n\nMoritz Twente, Victoria Grau\n\n\n\n\n\n\n\n\n\n\n\nGesellschaft aus dem Zeichenautomaten\n\n\nStädtebau und Datenverarbeitung in der DDR\n\n\n\nJannik Noeske\n\n\n\n\n\n\n\n\n\n\n\nMut zur Lücke\n\n\nFumihiko Makis «Hillside Terrace» in Daikanyama, Tokyo (1967–1992)\n\n\n\nEric Häusler\n\n\n\n\n\n\n\n\nKeine Treffer"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Städte bauen, Gesellschaft formen",
+    "section": "Fußnoten",
+    "text": "Fußnoten\n\n\nin Arbeit. Die Inhalte werden rechtzeitig vor der Konferenz bereitgestellt.↩︎"
+  },
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Änderungsvorschläge",
+    "section": "",
+    "text": "When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.\nPlease note we have a code of conduct, please follow it in all your interactions with the project.",
     "crumbs": [
       "Panel",
       "Kleingedrucktes",
-      "Sicherheit"
+      "Änderungsvorschläge"
     ]
   },
   {
-    "objectID": "SECURITY.html#reporting-a-vulnerability",
-    "href": "SECURITY.html#reporting-a-vulnerability",
-    "title": "Security Policy",
-    "section": "",
-    "text": "To report a security issue, please email [moritz.twente@unibas.ch] with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue. This project follows a 90 day disclosure timeline.",
+    "objectID": "CONTRIBUTING.html#pull-request-process",
+    "href": "CONTRIBUTING.html#pull-request-process",
+    "title": "Änderungsvorschläge",
+    "section": "Pull Request Process",
+    "text": "Pull Request Process\n\nEnsure any install or build dependencies are removed before the end of the layer when doing a build.\nUpdate the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.\nIncrease the version numbers in any examples files and the README.md to the new version that this Pull Request would represent. The versioning scheme we use is SemVer.\nYou may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.",
     "crumbs": [
       "Panel",
       "Kleingedrucktes",
-      "Sicherheit"
+      "Änderungsvorschläge"
     ]
   },
   {
@@ -31,35 +52,11 @@
     "text": "Copyright 2020 The Jost Project Authors (https://github.com/indestructible-type/Jost)\nThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL\n\nSIL OPEN FONT LICENSE\nVersion 1.1 - 26 February 2007\nPREAMBLE The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\nDEFINITIONS “Font Software” refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.\n“Original Version” refers to the collection of Font Software components as distributed by the Copyright Holder(s).\n“Modified Version” refers to any derivative made by adding to, deleting, or substituting — in part or in whole — any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.\n“Author” refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\nPERMISSION & CONDITIONS Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\nNeither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\nOriginal or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\nThe name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\nThe Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\nTERMINATION This license becomes null and void if any of the above conditions are not met.\nDISCLAIMER THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "CONTRIBUTING.html",
-    "href": "CONTRIBUTING.html",
-    "title": "Contributing",
+    "objectID": "docs/abstracts/zeichenautomaten.html",
+    "href": "docs/abstracts/zeichenautomaten.html",
+    "title": "Gesellschaft aus dem Zeichenautomaten",
     "section": "",
-    "text": "When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.\nPlease note we have a code of conduct, please follow it in all your interactions with the project.\n\n\n\nEnsure any install or build dependencies are removed before the end of the layer when doing a build.\nUpdate the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.\nIncrease the version numbers in any examples files and the README.md to the new version that this Pull Request would represent. The versioning scheme we use is SemVer.\nYou may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Änderungsvorschläge"
-    ]
-  },
-  {
-    "objectID": "CONTRIBUTING.html#pull-request-process",
-    "href": "CONTRIBUTING.html#pull-request-process",
-    "title": "Contributing",
-    "section": "",
-    "text": "Ensure any install or build dependencies are removed before the end of the layer when doing a build.\nUpdate the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.\nIncrease the version numbers in any examples files and the README.md to the new version that this Pull Request would represent. The versioning scheme we use is SemVer.\nYou may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Änderungsvorschläge"
-    ]
-  },
-  {
-    "objectID": "docs/panel.html",
-    "href": "docs/panel.html",
-    "title": "Städte bauen, Gesellschaft formen",
-    "section": "",
-    "text": "Städtebauliche Entwürfe sind nicht nur Visionen für Städte, Bauwerke und Infrastrukturen, sondern verräumlichen Konzepte des menschlichen Zusammenlebens. Solche Entwürfe, Konzepte oder Visionen konfrontieren bestehende Stadtstrukturen mit neuen Ideen, die häufig aus der Kritik an vergangenen Grundsätzen städtischen Zusammenlebens resultieren und Fehlentwicklungen sichtbar machen. In Planung und Gestaltung von Städten materialisieren sich damit gesellschaftspolitische Vorstellungen – ob implizit oder explizit, ob gebaut oder verworfen, ob Basel oder Otelfingen.\nIm Rahmen dieses Panels wollen wir Städtebau als gesellschaftliche Vision aus einer geschichtswissenschaftlichen Perspektive untersuchen. Unter der Prämisse, dass Bauvorhaben “Angebote, Gesellschaft […] in Form zu bringen” (Eisinger 2005) sind, können wir gesellschaftspolitische Ziele über ihre räumlichen Implikationen im Entwurf erkennen. Städtebauliche Entwürfe sind Austragungsorte politischer Debatten sowie Instrumente zur Formulierung von Machtansprüchen, die in die Lebensrealitäten der Bevölkerung eingreifen.\nDurch die Beschäftigung mit historischen Entwürfen, Konzepten und Visionen machen wir divergierende Ideen für die baulich-räumliche Organisation von Gesellschaft sichtbar, die im Entwurfsprozess miteinander konkurrieren: Wie sollte mit Städtebau welche Gesellschaftspolitik betrieben werden und wie gestaltet sich das Verhältnis zwischen Utopie und bereits existierenden Bauten? Welchen Einfluss haben zeitgenössische soziale, kulturelle oder wirtschaftliche Entwicklungen auf städtebauliche Utopien? Welche Akteur*innen bleiben im Gestaltungsprozess unsichtbar bzw. werden im Entwurf marginalisiert?\nFür die Annäherung an Städtebaugeschichte spielen Visualisierungen eine wichtige Rolle. Die herkömmlichen Werkzeuge für die Vermittlung von Bauprogrammen sind technische Pläne und Zeichnungen, doch auch Modelle oder bildende Kunst, etwa in Form von u.a. Fotografien und Gemälden sowie sprachliche Bilder haben eine lange Tradition in der Vermittlung städtebaulicher Visionen. Solche Darstellungen eröffnen Zugänge zur Interpretation der gesellschaftlichen Zusammenhänge, die entwerferisch thematisiert bzw. kritisiert werden: Mit welchen Medien wird der Entwurf visualisiert? Wie werden bildliche Darstellungen genutzt, um sozialräumliche Effekte baulicher Massnahmen hervorzuheben oder zu kaschieren? Welche Rolle spielen Visualisierungen für die Legitimation von Bauvorhaben?\n\n\n\n\n Zurück nach obenLiteratur\n\nEisinger, Angelus. 2005. Die Stadt der Architekten: Anatomie einer Selbstdemontage. Bauwelt Fundamente 131. Gütersloh/Berlin: Bauverlag. https://doi.org/10.1515/9783764376758.\n\nZitatMit BibTeX zitieren:@misc{twente2025,\n  author = {Twente, Moritz and Grau, Victoria},\n  title = {Städte bauen, Gesellschaft formen},\n  date = {2025-07},\n  url = {https://mtwente.github.io/geschichtstage25/docs/panel.html},\n  langid = {de}\n}\nBitte zitieren Sie diese Arbeit als:\nTwente, Moritz, and Victoria Grau. 2025. “Städte bauen,\nGesellschaft formen.” Siebte Schweizerische\nGeschichtstage. https://mtwente.github.io/geschichtstage25/docs/panel.html."
+    "text": "Mit dem Aufkommen der Elektronischen Datenverarbeitung in den Hochschulen und Verwaltungen ab den 1960er Jahren wurde auch nach Anwendungen der EDV in der räumlichen Planung gesucht. Dies geschah auch in der DDR. Zunächst als Möglichkeit zur Optimierung von Standortkonzeptionen und in der Baumaterialienindustrie eingesetzt, haben sich nach 1967 eine Vielzahl von Anwendungen herausgebildet. Dazu gehörten früh auch schon Möglichkeiten der analytisch-grafischen Repräsentation von Räumen im Sinne der Kartografik, aber auch städtebauliche Entwürfe. Die gesamtgesellschaftliche Rationalisierung, die mit der gezielten Computerisierung der räumlichen Planung einherging, wird anhand des Wirtschaftsraums um Karl-Marx-Stadt/Chemnitz deutlich, der zum Experimentierfeld und Modellfall der digitalen Produktionsverhältnisse der räumlichen und gesellschaftlichen Ordnung im real existierenden Sozialismus wurde – jenseits der simplen Bilder einer kybernetischen Technikutopie.\n\n\n\n Zurück nach obenZitatMit BibTeX zitieren:@misc{noeske2025,\n  author = {Noeske, Jannik},\n  title = {Gesellschaft aus dem Zeichenautomaten},\n  date = {2025-07-09},\n  url = {https://mtwente.github.io/geschichtstage25/docs/abstracts/zeichenautomaten.html},\n  langid = {de}\n}\nBitte zitieren Sie diese Arbeit als:\nNoeske, Jannik. 2025. “Gesellschaft aus dem\nZeichenautomaten.” Städte bauen, Gesellschaft formen (Panel\nan den Siebten Schweizerischen Geschichtstagen). https://mtwente.github.io/geschichtstage25/docs/abstracts/zeichenautomaten.html."
   },
   {
     "objectID": "docs/abstracts/hillsideterrace.html",
@@ -67,168 +64,6 @@
     "title": "Mut zur Lücke",
     "section": "",
     "text": "Der japanische Architekt Fumihiko Maki erhielt 1993 für sein «östliche und westliche Kulturen» verbindendes Werk den renommierten Pritzker Preis. In diesem Beitrag wird seine von 1967 bis 1992 in sechs Phasen erbaute «Hillside Terrace» als ein zukunftsweisendes Städtebau-Projekt präsentiert. Zwischen den verschiedenen Bauphasen liess Maki bewusst Zeit verstreichen. Er respektierte damit systematisch die Unsicherheiten hinsichtlich zukünftiger Interessen der Bewohner*innen sowie bautechnologischer und urbaner Entwicklungen. In seinem Planungsprozess bewies er gezielt ‘Mut zur Lücke’. «Hillside Terrace» repräsentiert ein paradigmatisches Beispiel für seine – auf der Idee der «Group Form» basierenden – städtebauliche Vision: Die Priorisierung des menschlichen Massstabs und die Nutzung flexibler Ordnungsmuster. Der in sequenziellen Schritten durchgeführte Gestaltungsprozess offenbart eine wegweisende Antwort auf die grundlegende Unplanbarkeit zukünftiger städtischer Entwicklungen.\n\n\n\n Zurück nach obenZitatMit BibTeX zitieren:@unpublished{häusler2025,\n  author = {Häusler, Eric},\n  title = {Mut zur Lücke},\n  date = {2025-07-09},\n  url = {https://mtwente.github.io/geschichtstage25/docs/abstracts/hillsideterrace.html},\n  langid = {de}\n}\nBitte zitieren Sie diese Arbeit als:\nHäusler, Eric. 2025. “Mut zur Lücke.” Städte bauen,\nGesellschaft formen (Panel an den Siebten Schweizerischen\nGeschichtstagen). July 9. https://mtwente.github.io/geschichtstage25/docs/abstracts/hillsideterrace.html."
-  },
-  {
-    "objectID": "docs/abstracts/marti.html",
-    "href": "docs/abstracts/marti.html",
-    "title": "Hinter dem Konzept und vor dem Plan",
-    "section": "",
-    "text": "Hans Marti gilt als Pionier der hiesigen Stadt-/Raumplanung im 20. Jahrhundert; sein planerisches, politisches und publizistisches Wirken legte einen Grundstein für die Institutionalisierung von Planung in der Schweiz. In diesem Beitrag suchen wir nach (gesellschafts)politischen Implikationen seiner Entwürfe. Um diese sichtbar zu machen, fokussieren wir jedoch nicht Planurkunden und technische Dokumente, sondern von ihm angefertigte Zeichnungen – z.B. flüchtig angefertigte Kritzeleien auf der Rückseite von Sitzungsunterlagen, karikaturistische Skizzen oder künstlerisch anmutende Farb- und Formstudien. Unter der Prämisse, dass Marti mit seinen Konzepten auf räumliche Folgen gesellschaftlicher Entwicklungen reagiert, rückt sein Arbeitsprozess, rücken seine Entwurfsstrategien ins Blickfeld. Indem wir die Zeichnungen als epistemische Werkzeuge im Arbeitsprozess behandeln, werden sie zu einem Baustein seiner Visionen für die räumliche Strukturierung des gesellschaftlichen Zusammenlebens.\n\n\n\n Zurück nach obenZitatMit BibTeX zitieren:@misc{twente2025,\n  author = {Twente, Moritz and Grau, Victoria},\n  title = {Hinter dem Konzept und vor dem Plan},\n  date = {2025-07},\n  url = {https://mtwente.github.io/geschichtstage25/docs/abstracts/marti.html},\n  langid = {de}\n}\nBitte zitieren Sie diese Arbeit als:\nTwente, Moritz, and Victoria Grau. 2025. “Hinter dem Konzept und\nvor dem Plan.” Siebte Schweizerische Geschichtstage. https://mtwente.github.io/geschichtstage25/docs/abstracts/marti.html."
-  },
-  {
-    "objectID": "docs/paper.html",
-    "href": "docs/paper.html",
-    "title": "Beiträge",
-    "section": "",
-    "text": "Die Konferenz findet an der Universität Luzern statt. Das Panel dauert 90 Minuten, Zeit und Ort sind aktuell noch nicht festgelegt (Stand: Dezember 2024)."
-  },
-  {
-    "objectID": "docs/paper.html#paper",
-    "href": "docs/paper.html#paper",
-    "title": "Beiträge",
-    "section": "Paper",
-    "text": "Paper\n\n\n\n\n\n\n\nHinter dem Konzept und vor dem Plan\n\n\nStadtvorstellungen in Hans Martis Skizzensammlung\n\n\n\nMoritz Twente, Victoria Grau\n\n\n\n\n\n\n\n\n\n\n\nGesellschaft aus dem Zeichenautomaten\n\n\nStädtebau und Datenverarbeitung in der DDR\n\n\n\nJannik Noeske\n\n\n\n\n\n\n\n\n\n\n\nMut zur Lücke\n\n\nFumihiko Makis «Hillside Terrace» in Daikanyama, Tokyo (1967–1992)\n\n\n\nEric Häusler\n\n\n\n\n\n\n\n\nKeine Treffer"
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html",
-    "href": "CODE_OF_CONDUCT.html",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\n\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\n\n\n\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\n\n\n\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\n\n\n\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [moritz.twente@unibas.ch]. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.\n\n\n\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community.\n\n\n\n\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#our-pledge",
-    "href": "CODE_OF_CONDUCT.html#our-pledge",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#our-standards",
-    "href": "CODE_OF_CONDUCT.html#our-standards",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Examples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
-    "href": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#scope",
-    "href": "CODE_OF_CONDUCT.html#scope",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#enforcement",
-    "href": "CODE_OF_CONDUCT.html#enforcement",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [moritz.twente@unibas.ch]. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#enforcement-guidelines",
-    "href": "CODE_OF_CONDUCT.html#enforcement-guidelines",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#attribution",
-    "href": "CODE_OF_CONDUCT.html#attribution",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html",
-    "href": "CHANGELOG.html",
-    "title": "Changelog",
-    "section": "",
-    "text": "All notable changes to this project will be documented in this file.\nThe format is based on Keep a Changelog, and this project adheres to Semantic Versioning.\n\n\n\n\n\nInitialise template\nAdd citation file\nUpdate css\nAdd basic content\nAdd panel description\nAdd presentations\nAdd paper listing\nAdd author info\nChange quarto style settings\nInitialise template\nUpdate about page\nUpdate panel page\nUpdate page content\nChange quarto setup",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Changelog"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html#unreleased",
-    "href": "CHANGELOG.html#unreleased",
-    "title": "Changelog",
-    "section": "",
-    "text": "Initialise template\nAdd citation file\nUpdate css\nAdd basic content\nAdd panel description\nAdd presentations\nAdd paper listing\nAdd author info\nChange quarto style settings\nInitialise template\nUpdate about page\nUpdate panel page\nUpdate page content\nChange quarto setup",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes",
-      "Changelog"
-    ]
-  },
-  {
-    "objectID": "docs/about.html",
-    "href": "docs/about.html",
-    "title": "Über",
-    "section": "",
-    "text": "Victoria Grau  studierte Urbanistik an der Bauhaus-Universität Weimar und am University College Dublin. Seit 2022 ist sie als wissenschaftliche Mitarbeiterin an der Professur für Raumplanung und Raumforschung der Bauhaus-Universität Weimar in Forschung und Lehre tätig. Im Mittelpunkt ihrer Arbeit steht der Zusammenhang von Planung, Politik und Wirtschaft in europäischen Metropolen im 20. und 21. Jahrhundert. Ihr Promotionsprojekt widmet sich der Entwicklung von Städtebau als Disziplin, Wissenschaft und Politikfeld zwischen 1919 und 1937, mit besonderem Fokus auf die Zeit der NS-Diktatur in Deutschland. Seit 2022 ist sie Mitglied in der Forschungsgruppe Städtebau des Nationalsozialismus im Kontext europäischer Diktaturen (1933–1945).\nvictoria.elisabeth.grau@uni-weimar.de\n\n\n\n\nEric Häusler  dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut.\nehaeusler@ethz.ch\n\n\nJannik Noeske  dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut.\nmail@janniknoeske.de\n\n\n\nMoritz Twente  arbeitet als Data Steward im Team für Forschungsdatenmanagement im Projekt Stadt.Geschichte.Basel. Seine Forschungsinteressen betreffen die Schnittmenge von Raum, Planung und Gestaltung – fokussiert auf Perspektiven der politischen Theorie und Science and Technology Studies. Er studiert Politikwissenschaften und Digital Humanities (M.A.) an der Universität Basel und hat die Studiengänge Urbanistik (B.Sc., Bauhaus-Universität Weimar) sowie Nordeuropa-Studien (B.A., Humboldt-Universität zu Berlin) absolviert.\nmoritz.twente@unibas.ch"
-  },
-  {
-    "objectID": "docs/about.html#autorinnen",
-    "href": "docs/about.html#autorinnen",
-    "title": "Über",
-    "section": "",
-    "text": "Victoria Grau  studierte Urbanistik an der Bauhaus-Universität Weimar und am University College Dublin. Seit 2022 ist sie als wissenschaftliche Mitarbeiterin an der Professur für Raumplanung und Raumforschung der Bauhaus-Universität Weimar in Forschung und Lehre tätig. Im Mittelpunkt ihrer Arbeit steht der Zusammenhang von Planung, Politik und Wirtschaft in europäischen Metropolen im 20. und 21. Jahrhundert. Ihr Promotionsprojekt widmet sich der Entwicklung von Städtebau als Disziplin, Wissenschaft und Politikfeld zwischen 1919 und 1937, mit besonderem Fokus auf die Zeit der NS-Diktatur in Deutschland. Seit 2022 ist sie Mitglied in der Forschungsgruppe Städtebau des Nationalsozialismus im Kontext europäischer Diktaturen (1933–1945).\nvictoria.elisabeth.grau@uni-weimar.de\n\n\n\n\nEric Häusler  dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut.\nehaeusler@ethz.ch\n\n\nJannik Noeske  dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut.\nmail@janniknoeske.de\n\n\n\nMoritz Twente  arbeitet als Data Steward im Team für Forschungsdatenmanagement im Projekt Stadt.Geschichte.Basel. Seine Forschungsinteressen betreffen die Schnittmenge von Raum, Planung und Gestaltung – fokussiert auf Perspektiven der politischen Theorie und Science and Technology Studies. Er studiert Politikwissenschaften und Digital Humanities (M.A.) an der Universität Basel und hat die Studiengänge Urbanistik (B.Sc., Bauhaus-Universität Weimar) sowie Nordeuropa-Studien (B.A., Humboldt-Universität zu Berlin) absolviert.\nmoritz.twente@unibas.ch"
-  },
-  {
-    "objectID": "docs/abstracts/zeichenautomaten.html",
-    "href": "docs/abstracts/zeichenautomaten.html",
-    "title": "Gesellschaft aus dem Zeichenautomaten",
-    "section": "",
-    "text": "Mit dem Aufkommen der Elektronischen Datenverarbeitung in den Hochschulen und Verwaltungen ab den 1960er Jahren wurde auch nach Anwendungen der EDV in der räumlichen Planung gesucht. Dies geschah auch in der DDR. Zunächst als Möglichkeit zur Optimierung von Standortkonzeptionen und in der Baumaterialienindustrie eingesetzt, haben sich nach 1967 eine Vielzahl von Anwendungen herausgebildet. Dazu gehörten früh auch schon Möglichkeiten der analytisch-grafischen Repräsentation von Räumen im Sinne der Kartografik, aber auch städtebauliche Entwürfe. Die gesamtgesellschaftliche Rationalisierung, die mit der gezielten Computerisierung der räumlichen Planung einherging, wird anhand des Wirtschaftsraums um Karl-Marx-Stadt/Chemnitz deutlich, der zum Experimentierfeld und Modellfall der digitalen Produktionsverhältnisse der räumlichen und gesellschaftlichen Ordnung im real existierenden Sozialismus wurde – jenseits der simplen Bilder einer kybernetischen Technikutopie.\n\n\n\n Zurück nach obenZitatMit BibTeX zitieren:@misc{noeske2025,\n  author = {Noeske, Jannik},\n  title = {Gesellschaft aus dem Zeichenautomaten},\n  date = {2025-07-09},\n  url = {https://mtwente.github.io/geschichtstage25/docs/abstracts/zeichenautomaten.html},\n  langid = {de}\n}\nBitte zitieren Sie diese Arbeit als:\nNoeske, Jannik. 2025. “Gesellschaft aus dem\nZeichenautomaten.” Städte bauen, Gesellschaft formen (Panel\nan den Siebten Schweizerischen Geschichtstagen). https://mtwente.github.io/geschichtstage25/docs/abstracts/zeichenautomaten.html."
   },
   {
     "objectID": "docs/readme.html",
@@ -351,37 +186,18 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Städte bauen, Gesellschaft formen",
+    "objectID": "docs/paper.html",
+    "href": "docs/paper.html",
+    "title": "Beiträge",
     "section": "",
-    "text": "Das Panel Städte bauen, Gesellschaft formen: Entwurf und Vision in der Städtebaugeschichte ist Teil der siebten Schweizerischen Geschichtstage (07.–11.07.2025) an der Universität Luzern. Victoria Grau, Eric Häusler, Jannik Noeske und Moritz Twente präsentieren im Rahmen des Panelprogramms drei Themen an der Schnittstelle von Städtebau-/Planungsgeschichte und Gesellschaftspolitik. Dem Thema der Geschichtstage 2025 entsprechend – (Un)sichtbarkeit – liegt der Fokus auf visuellen Aspekten der vorgestellten Projekte.\nDiese Webseite wurde von den Panel-Organisator*innen erstellt, um ausführlichere Abstracts zu den drei Vorträgen anbieten1 und um die Inhalte nach der Veranstaltung zitierfähig archivieren zu können. Fragen zum Panel und zu den Präsentationen beantworten Moritz Twente und Victoria Grau per E-Mail oder auf GitHub. Informationen zum gesamten Tagungsprogramm und zur Teilnahme an der Konferenz sind auf geschichtstage.ch zu finden.",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes"
-    ]
+    "text": "Die Konferenz findet an der Universität Luzern statt. Das Panel dauert 90 Minuten, Zeit und Ort sind aktuell noch nicht festgelegt (Stand: Dezember 2024)."
   },
   {
-    "objectID": "index.html#paper",
-    "href": "index.html#paper",
-    "title": "Städte bauen, Gesellschaft formen",
+    "objectID": "docs/paper.html#paper",
+    "href": "docs/paper.html#paper",
+    "title": "Beiträge",
     "section": "Paper",
-    "text": "Paper\n\n\n\n\n\n\n\nHinter dem Konzept und vor dem Plan\n\n\nStadtvorstellungen in Hans Martis Skizzensammlung\n\n\n\nMoritz Twente, Victoria Grau\n\n\n\n\n\n\n\n\n\n\n\nGesellschaft aus dem Zeichenautomaten\n\n\nStädtebau und Datenverarbeitung in der DDR\n\n\n\nJannik Noeske\n\n\n\n\n\n\n\n\n\n\n\nMut zur Lücke\n\n\nFumihiko Makis «Hillside Terrace» in Daikanyama, Tokyo (1967–1992)\n\n\n\nEric Häusler\n\n\n\n\n\n\n\n\nKeine Treffer",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes"
-    ]
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Städte bauen, Gesellschaft formen",
-    "section": "Fußnoten",
-    "text": "Fußnoten\n\n\nin Arbeit. Die Inhalte werden rechtzeitig vor der Konferenz bereitgestellt.↩︎",
-    "crumbs": [
-      "Panel",
-      "Kleingedrucktes"
-    ]
+    "text": "Paper\n\n\n\n\n\n\n\nHinter dem Konzept und vor dem Plan\n\n\nStadtvorstellungen in Hans Martis Skizzensammlung\n\n\n\nMoritz Twente, Victoria Grau\n\n\n\n\n\n\n\n\n\n\n\nGesellschaft aus dem Zeichenautomaten\n\n\nStädtebau und Datenverarbeitung in der DDR\n\n\n\nJannik Noeske\n\n\n\n\n\n\n\n\n\n\n\nMut zur Lücke\n\n\nFumihiko Makis «Hillside Terrace» in Daikanyama, Tokyo (1967–1992)\n\n\n\nEric Häusler\n\n\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "LICENSE-CCBY.html",
@@ -396,6 +212,89 @@
     ]
   },
   {
+    "objectID": "SECURITY.html",
+    "href": "SECURITY.html",
+    "title": "Security Policy",
+    "section": "",
+    "text": "Um ein Sicherheitsproblem zu melden, senden Sie bitte eine E-Mail an [moritz.twente@unibas.ch] mit einer Beschreibung des Problems, den Schritten, die Sie unternommen haben, um das Problem zu finden, den betroffenen Versionen und, falls bekannt, den Abhilfemassnahmen für das Problem. Dieses Projekt folgt einer Discloruse-Timeline von 90 Tagen.",
+    "crumbs": [
+      "Panel",
+      "Kleingedrucktes",
+      "Sicherheit"
+    ]
+  },
+  {
+    "objectID": "SECURITY.html#melden-einer-schwachstelle",
+    "href": "SECURITY.html#melden-einer-schwachstelle",
+    "title": "Security Policy",
+    "section": "",
+    "text": "Um ein Sicherheitsproblem zu melden, senden Sie bitte eine E-Mail an [moritz.twente@unibas.ch] mit einer Beschreibung des Problems, den Schritten, die Sie unternommen haben, um das Problem zu finden, den betroffenen Versionen und, falls bekannt, den Abhilfemassnahmen für das Problem. Dieses Projekt folgt einer Discloruse-Timeline von 90 Tagen.",
+    "crumbs": [
+      "Panel",
+      "Kleingedrucktes",
+      "Sicherheit"
+    ]
+  },
+  {
+    "objectID": "docs/panel.html",
+    "href": "docs/panel.html",
+    "title": "Städte bauen, Gesellschaft formen",
+    "section": "",
+    "text": "Städtebauliche Entwürfe sind nicht nur Visionen für Städte, Bauwerke und Infrastrukturen, sondern verräumlichen Konzepte des menschlichen Zusammenlebens. Solche Entwürfe, Konzepte oder Visionen konfrontieren bestehende Stadtstrukturen mit neuen Ideen, die häufig aus der Kritik an vergangenen Grundsätzen städtischen Zusammenlebens resultieren und Fehlentwicklungen sichtbar machen. In Planung und Gestaltung von Städten materialisieren sich damit gesellschaftspolitische Vorstellungen – ob implizit oder explizit, ob gebaut oder verworfen, ob Basel oder Otelfingen.\nIm Rahmen dieses Panels wollen wir Städtebau als gesellschaftliche Vision aus einer geschichtswissenschaftlichen Perspektive untersuchen. Unter der Prämisse, dass Bauvorhaben “Angebote, Gesellschaft […] in Form zu bringen” (Eisinger 2005) sind, können wir gesellschaftspolitische Ziele über ihre räumlichen Implikationen im Entwurf erkennen. Städtebauliche Entwürfe sind Austragungsorte politischer Debatten sowie Instrumente zur Formulierung von Machtansprüchen, die in die Lebensrealitäten der Bevölkerung eingreifen.\nDurch die Beschäftigung mit historischen Entwürfen, Konzepten und Visionen machen wir divergierende Ideen für die baulich-räumliche Organisation von Gesellschaft sichtbar, die im Entwurfsprozess miteinander konkurrieren: Wie sollte mit Städtebau welche Gesellschaftspolitik betrieben werden und wie gestaltet sich das Verhältnis zwischen Utopie und bereits existierenden Bauten? Welchen Einfluss haben zeitgenössische soziale, kulturelle oder wirtschaftliche Entwicklungen auf städtebauliche Utopien? Welche Akteur*innen bleiben im Gestaltungsprozess unsichtbar bzw. werden im Entwurf marginalisiert?\nFür die Annäherung an Städtebaugeschichte spielen Visualisierungen eine wichtige Rolle. Die herkömmlichen Werkzeuge für die Vermittlung von Bauprogrammen sind technische Pläne und Zeichnungen, doch auch Modelle oder bildende Kunst, etwa in Form von u.a. Fotografien und Gemälden sowie sprachliche Bilder haben eine lange Tradition in der Vermittlung städtebaulicher Visionen. Solche Darstellungen eröffnen Zugänge zur Interpretation der gesellschaftlichen Zusammenhänge, die entwerferisch thematisiert bzw. kritisiert werden: Mit welchen Medien wird der Entwurf visualisiert? Wie werden bildliche Darstellungen genutzt, um sozialräumliche Effekte baulicher Massnahmen hervorzuheben oder zu kaschieren? Welche Rolle spielen Visualisierungen für die Legitimation von Bauvorhaben?\n\n\n\n\n Zurück nach obenLiteratur\n\nEisinger, Angelus. 2005. Die Stadt der Architekten: Anatomie einer Selbstdemontage. Bauwelt Fundamente 131. Gütersloh/Berlin: Bauverlag. https://doi.org/10.1515/9783764376758.\n\nZitatMit BibTeX zitieren:@misc{twente2025,\n  author = {Twente, Moritz and Grau, Victoria},\n  title = {Städte bauen, Gesellschaft formen},\n  date = {2025-07},\n  url = {https://mtwente.github.io/geschichtstage25/docs/panel.html},\n  langid = {de}\n}\nBitte zitieren Sie diese Arbeit als:\nTwente, Moritz, and Victoria Grau. 2025. “Städte bauen,\nGesellschaft formen.” Siebte Schweizerische\nGeschichtstage. https://mtwente.github.io/geschichtstage25/docs/panel.html."
+  },
+  {
+    "objectID": "docs/about.html",
+    "href": "docs/about.html",
+    "title": "Über",
+    "section": "",
+    "text": "Diese Website dient als Ergänzung zu den offiziellen Publikationskanälen der Schweizerischen Geschichtstage. Diese Seite wurde auf Grundlage des Open Research Data Templates mit Quarto erstellt (Readme) und wird auf GitHub Pages gehostet. Im Anschluss an die Konferenz werden die Inhalte auf Zenodo langzeitarchiviert."
+  },
+  {
+    "objectID": "docs/about.html#inhalte",
+    "href": "docs/about.html#inhalte",
+    "title": "Über",
+    "section": "",
+    "text": "Diese Website dient als Ergänzung zu den offiziellen Publikationskanälen der Schweizerischen Geschichtstage. Diese Seite wurde auf Grundlage des Open Research Data Templates mit Quarto erstellt (Readme) und wird auf GitHub Pages gehostet. Im Anschluss an die Konferenz werden die Inhalte auf Zenodo langzeitarchiviert."
+  },
+  {
+    "objectID": "docs/about.html#autorinnen",
+    "href": "docs/about.html#autorinnen",
+    "title": "Über",
+    "section": "Autor*innen",
+    "text": "Autor*innen\nVictoria Grau  studierte Urbanistik an der Bauhaus-Universität Weimar und am University College Dublin. Seit 2022 ist sie als wissenschaftliche Mitarbeiterin an der Professur für Raumplanung und Raumforschung der Bauhaus-Universität Weimar in Forschung und Lehre tätig. Im Mittelpunkt ihrer Arbeit steht der Zusammenhang von Planung, Politik und Wirtschaft in europäischen Metropolen im 20. und 21. Jahrhundert. Ihr Promotionsprojekt widmet sich der Entwicklung von Städtebau als Disziplin, Wissenschaft und Politikfeld zwischen 1919 und 1937, mit besonderem Fokus auf die Zeit der NS-Diktatur in Deutschland. Seit 2022 ist sie Mitglied in der Forschungsgruppe Städtebau des Nationalsozialismus im Kontext europäischer Diktaturen (1933–1945).\nvictoria.elisabeth.grau@uni-weimar.de\n\nEric Häusler  dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut.\nehaeusler@ethz.ch\n\nJannik Noeske  dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut.\nmail@janniknoeske.de\n\nMoritz Twente  arbeitet als Data Steward im Team für Forschungsdatenmanagement im Projekt Stadt.Geschichte.Basel. Seine Forschungsinteressen betreffen die Schnittmenge von Raum, Planung und Gestaltung – fokussiert auf Perspektiven der politischen Theorie und Science and Technology Studies. Er studiert Politikwissenschaften und Digital Humanities (M.A.) an der Universität Basel und hat die Studiengänge Urbanistik (B.Sc., Bauhaus-Universität Weimar) sowie Nordeuropa-Studien (B.A., Humboldt-Universität zu Berlin) absolviert.\nmoritz.twente@unibas.ch"
+  },
+  {
+    "objectID": "docs/abstracts/marti.html",
+    "href": "docs/abstracts/marti.html",
+    "title": "Hinter dem Konzept und vor dem Plan",
+    "section": "",
+    "text": "Hans Marti gilt als Pionier der hiesigen Stadt-/Raumplanung im 20. Jahrhundert; sein planerisches, politisches und publizistisches Wirken legte einen Grundstein für die Institutionalisierung von Planung in der Schweiz. In diesem Beitrag suchen wir nach (gesellschafts)politischen Implikationen seiner Entwürfe. Um diese sichtbar zu machen, fokussieren wir jedoch nicht Planurkunden und technische Dokumente, sondern von ihm angefertigte Zeichnungen – z.B. flüchtig angefertigte Kritzeleien auf der Rückseite von Sitzungsunterlagen, karikaturistische Skizzen oder künstlerisch anmutende Farb- und Formstudien. Unter der Prämisse, dass Marti mit seinen Konzepten auf räumliche Folgen gesellschaftlicher Entwicklungen reagiert, rückt sein Arbeitsprozess, rücken seine Entwurfsstrategien ins Blickfeld. Indem wir die Zeichnungen als epistemische Werkzeuge im Arbeitsprozess behandeln, werden sie zu einem Baustein seiner Visionen für die räumliche Strukturierung des gesellschaftlichen Zusammenlebens.\n\n\n\n Zurück nach obenZitatMit BibTeX zitieren:@misc{twente2025,\n  author = {Twente, Moritz and Grau, Victoria},\n  title = {Hinter dem Konzept und vor dem Plan},\n  date = {2025-07},\n  url = {https://mtwente.github.io/geschichtstage25/docs/abstracts/marti.html},\n  langid = {de}\n}\nBitte zitieren Sie diese Arbeit als:\nTwente, Moritz, and Victoria Grau. 2025. “Hinter dem Konzept und\nvor dem Plan.” Siebte Schweizerische Geschichtstage. https://mtwente.github.io/geschichtstage25/docs/abstracts/marti.html."
+  },
+  {
+    "objectID": "CHANGELOG.html",
+    "href": "CHANGELOG.html",
+    "title": "Changelog",
+    "section": "",
+    "text": "All notable changes to this project will be documented in this file.\nThe format is based on Keep a Changelog, and this project adheres to Semantic Versioning.",
+    "crumbs": [
+      "Panel",
+      "Kleingedrucktes",
+      "Changelog"
+    ]
+  },
+  {
+    "objectID": "CHANGELOG.html#unreleased",
+    "href": "CHANGELOG.html#unreleased",
+    "title": "Changelog",
+    "section": "Unreleased",
+    "text": "Unreleased\n\nFeatures\n\nInitialise template\nAdd citation file\nUpdate css\nAdd basic content\nAdd panel description\nAdd presentations\nAdd paper listing\nAdd author info\nChange quarto style settings\nInitialise template\nUpdate about page\nUpdate panel page\nUpdate page content\nChange quarto setup",
+    "crumbs": [
+      "Panel",
+      "Kleingedrucktes",
+      "Changelog"
+    ]
+  },
+  {
     "objectID": "LICENSE-AGPL.html",
     "href": "LICENSE-AGPL.html",
     "title": "Städte bauen, Gesellschaft formen",
@@ -405,6 +304,30 @@
       "Panel",
       "Kleingedrucktes",
       "Lizenz (Code)"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Verhaltenskodex",
+    "section": "",
+    "text": "Wir als Mitglieder, Teilnehmende und Verantwortliche unserer Gemeinschaft verpflichten uns, allen Teilnehmenden an dem Projekt und unserer Gemeinschaft eine belästigungsfreie Beteiligung, unabhängig von Alter, Körpergröße, Behinderung, ethnischer Zuordnung, Geschlechtermerkmalen, -identität und -ausdruck, Grad der Erfahrung, Bildung, sozialem Status, Nationalität, persönlicher Erscheinung, Rasse, Kaste, Hautfarbe, Religion oder sexueller Identität und Orientierung zu ermöglichen.\nWir verpflichten uns, in einer Weise zu handeln und zu interagieren, die zu einer offenen, einladenden, vielfältigen, inklusiven und gesunden Gemeinschaft beiträgt.\n\n\n\nBeispiele für Verhaltensweisen, die zu einem positiven Umfeld für unsere Gemeinschaft beitragen, sind:\n\nEinfühlungsvermögen und Freundlichkeit gegenüber anderen Menschen zeigen\nUnterschiedliche Meinungen, Standpunkte und Erfahrungen respektieren\nKonstruktives Feedback geben und würdevoll annehmen\nVerantwortung übernehmen und uns bei denjenigen entschuldigen, die von unseren Fehlern betroffen sind, und aus den Erfahrungen lernen\nKonzentration auf das, was nicht nur für uns als Individuen, sondern für die gesamte Gemeinschaft das Beste ist\n\nBeispiele für inakzeptables Verhalten sind:\n\nDie Verwendung sexualisierter Sprache, Bilder oder Symbolik sowie unerwünschte Versuche sexueller Annäherung\nBeleidigende oder abwertende Kommentare, persönliche oder politische Angriffe und Trollen\nÖffentliche oder private Belästigungen\nDas Veröffentlichen von privaten Informationen Anderer, wie zum Beispiel physische oder elektronische Adressen, ohne deren ausdrückliche Erlaubnis\nAnderes Verhalten, welches in einem professionellen Umfeld begründet als unangemessen betrachtet werden kann\n\n\n\n\nDie Gemeinschaftsleitung ist verantwortlich dafür, unsere Standards für ein akzeptables Verhalten klarzustellen und wird angemessen und fair korrigierende Maßnahmen ergreifen um auf jegliches Verhalten, das sie für unangemessen, bedrohlich oder beleidigend hält, zu reagieren.\nDie Gemeinschaftsleitung hat das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Bearbeitungen, Support-Tickets und andere Beiträge, die nicht mit diesem Verhaltenskodex vereinbar sind, zu entfernen, zu bearbeiten oder abzulehnen, und wird die Gründe für eine Mäßigung mitteilen, wenn es angebracht ist.\n\n\n\nDieser Verhaltenskodex gilt für alle Gemeinschaftsbereiche und gilt auch, wenn eine Einzelperson die Gemeinschaft offiziell in öffentlichen Bereichen vertritt. Beispiele für die Repräsentation unserer Gemeinschaft sind die Verwendung einer offiziellen E-Mail-Adresse, das Posten über ein offizielles Social-Media-Konto oder das Auftreten als ernannte Vertretung bei einer Online- oder Offline-Veranstaltung.\n\n\n\nFälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem Verhalten können unter [KONTAKTMETHODE EINFÜGEN] der für die Durchsetzung zuständigen Gemeinschaftsleitung gemeldet werden. Alle Beschwerden werden zeitnah und fair geprüft und ermittelt.\nDie gesamte Gemeinschaftsleitung ist verpflichtet, die Privatsphäre und die Sicherheit derjenigen, die einen Vorfall gemeldet haben, zu respektieren.\n\n\n\nDie Gemeinschaftsleitung wird sich bei der Bestimmung der Konsequenzen für jede Handlung, die ihrer Ansicht nach gegen diesen Verhaltenskodex verstößt, an diese Richtlinien über die Auswirkungen in der Gemeinschaft halten:\n\n\nAuswirkungen in der Gemeinschaft: Verwendung unangemessener Sprache oder anderes Verhalten, das in der Gemeinschaft als unprofessionell oder unwillkommen gilt.\nFolge: Eine private, schriftliche Verwarnung der Gemeinschaftsleitung, die Klarheit über die Art des Verstoßes und eine Erklärung dafür bietet, warum das Verhalten unangemessen war. Eine öffentliche Entschuldigung kann verlangt werden.\n\n\n\nAuswirkungen in der Gemeinschaft: Eine Verletzung durch einen einzelnen Vorfall oder eine Reihe von Handlungen.\nFolge: Eine Warnung mit Konsequenzen bei wiederholtem Fehlverhalten. Keine Interaktion mit den beteiligten Personen, einschließlich unaufgeforderter Interaktion mit denjenigen, die den Verhaltenskodex durchsetzen, für einen bestimmten Zeitraum. Dazu gehört die Vermeidung von Interaktionen in Gemeinschaftsräumen sowie in externen Kanälen wie sozialen Medien. Ein Verstoß gegen diese Bedingungen kann zu einem vorübergehenden oder dauerhaften Verbot führen.\n\n\n\nAuswirkungen in der Gemeinschaft: Eine schwerwiegende Verletzung von Gemeinschaftsstandards, einschließlich anhaltend unangemessenen Verhaltens.\nFolge: Ein zeitlich begrenztes Verbot jeglicher Art von Interaktion oder öffentlicher Kommunikation mit der Gemeinschaft. Während dieses Zeitraums ist keine öffentliche oder private Interaktion mit den beteiligten Personen erlaubt. Auch keine unaufgeforderte Interaktion mit denjenigen, die den Verhaltenskodex durchsetzen. Ein Verstoß gegen diese Bedingungen kann zu einem dauerhaften Verbot führen.\n\n\n\nAuswirkungen in der Gemeinschaft: Aufzeigen eines Musters von Verletzungen der Gemeinschaftsstandards, einschließlich anhaltend unangemessenen Verhaltens, Belästigung einer Person oder Aggression gegen oder Herabsetzung von Gruppen von Personen.\nFolge: Ein dauerhaftes Verbot jeglicher Art von öffentlicher Interaktion innerhalb der Gemeinschaft.\n\n\n\n\nDieser Verhaltenskodex basiert auf dem Contributor Covenant, Version 2.1, verfügbar unter https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines wurden von Mozillas Code of Conduct Enforcement Ladder inspiriert.\nAntworten auf häufig gestellte Fragen zu diesem Verhaltenskodex finden Sie in den häufig gestellten Fragen unter https://www.contributor-covenant.org/faq (in Englisch). Andere Übersetzungen sind verfügbar unter https://www.contributor-covenant.org/translations.",
+    "crumbs": [
+      "Panel",
+      "Kleingedrucktes",
+      "Verhaltenskodex"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#vereinbarung-über-verhaltenskodex-für-mitwirkende",
+    "href": "CODE_OF_CONDUCT.html#vereinbarung-über-verhaltenskodex-für-mitwirkende",
+    "title": "Verhaltenskodex",
+    "section": "",
+    "text": "Wir als Mitglieder, Teilnehmende und Verantwortliche unserer Gemeinschaft verpflichten uns, allen Teilnehmenden an dem Projekt und unserer Gemeinschaft eine belästigungsfreie Beteiligung, unabhängig von Alter, Körpergröße, Behinderung, ethnischer Zuordnung, Geschlechtermerkmalen, -identität und -ausdruck, Grad der Erfahrung, Bildung, sozialem Status, Nationalität, persönlicher Erscheinung, Rasse, Kaste, Hautfarbe, Religion oder sexueller Identität und Orientierung zu ermöglichen.\nWir verpflichten uns, in einer Weise zu handeln und zu interagieren, die zu einer offenen, einladenden, vielfältigen, inklusiven und gesunden Gemeinschaft beiträgt.\n\n\n\nBeispiele für Verhaltensweisen, die zu einem positiven Umfeld für unsere Gemeinschaft beitragen, sind:\n\nEinfühlungsvermögen und Freundlichkeit gegenüber anderen Menschen zeigen\nUnterschiedliche Meinungen, Standpunkte und Erfahrungen respektieren\nKonstruktives Feedback geben und würdevoll annehmen\nVerantwortung übernehmen und uns bei denjenigen entschuldigen, die von unseren Fehlern betroffen sind, und aus den Erfahrungen lernen\nKonzentration auf das, was nicht nur für uns als Individuen, sondern für die gesamte Gemeinschaft das Beste ist\n\nBeispiele für inakzeptables Verhalten sind:\n\nDie Verwendung sexualisierter Sprache, Bilder oder Symbolik sowie unerwünschte Versuche sexueller Annäherung\nBeleidigende oder abwertende Kommentare, persönliche oder politische Angriffe und Trollen\nÖffentliche oder private Belästigungen\nDas Veröffentlichen von privaten Informationen Anderer, wie zum Beispiel physische oder elektronische Adressen, ohne deren ausdrückliche Erlaubnis\nAnderes Verhalten, welches in einem professionellen Umfeld begründet als unangemessen betrachtet werden kann\n\n\n\n\nDie Gemeinschaftsleitung ist verantwortlich dafür, unsere Standards für ein akzeptables Verhalten klarzustellen und wird angemessen und fair korrigierende Maßnahmen ergreifen um auf jegliches Verhalten, das sie für unangemessen, bedrohlich oder beleidigend hält, zu reagieren.\nDie Gemeinschaftsleitung hat das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Bearbeitungen, Support-Tickets und andere Beiträge, die nicht mit diesem Verhaltenskodex vereinbar sind, zu entfernen, zu bearbeiten oder abzulehnen, und wird die Gründe für eine Mäßigung mitteilen, wenn es angebracht ist.\n\n\n\nDieser Verhaltenskodex gilt für alle Gemeinschaftsbereiche und gilt auch, wenn eine Einzelperson die Gemeinschaft offiziell in öffentlichen Bereichen vertritt. Beispiele für die Repräsentation unserer Gemeinschaft sind die Verwendung einer offiziellen E-Mail-Adresse, das Posten über ein offizielles Social-Media-Konto oder das Auftreten als ernannte Vertretung bei einer Online- oder Offline-Veranstaltung.\n\n\n\nFälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem Verhalten können unter [KONTAKTMETHODE EINFÜGEN] der für die Durchsetzung zuständigen Gemeinschaftsleitung gemeldet werden. Alle Beschwerden werden zeitnah und fair geprüft und ermittelt.\nDie gesamte Gemeinschaftsleitung ist verpflichtet, die Privatsphäre und die Sicherheit derjenigen, die einen Vorfall gemeldet haben, zu respektieren.\n\n\n\nDie Gemeinschaftsleitung wird sich bei der Bestimmung der Konsequenzen für jede Handlung, die ihrer Ansicht nach gegen diesen Verhaltenskodex verstößt, an diese Richtlinien über die Auswirkungen in der Gemeinschaft halten:\n\n\nAuswirkungen in der Gemeinschaft: Verwendung unangemessener Sprache oder anderes Verhalten, das in der Gemeinschaft als unprofessionell oder unwillkommen gilt.\nFolge: Eine private, schriftliche Verwarnung der Gemeinschaftsleitung, die Klarheit über die Art des Verstoßes und eine Erklärung dafür bietet, warum das Verhalten unangemessen war. Eine öffentliche Entschuldigung kann verlangt werden.\n\n\n\nAuswirkungen in der Gemeinschaft: Eine Verletzung durch einen einzelnen Vorfall oder eine Reihe von Handlungen.\nFolge: Eine Warnung mit Konsequenzen bei wiederholtem Fehlverhalten. Keine Interaktion mit den beteiligten Personen, einschließlich unaufgeforderter Interaktion mit denjenigen, die den Verhaltenskodex durchsetzen, für einen bestimmten Zeitraum. Dazu gehört die Vermeidung von Interaktionen in Gemeinschaftsräumen sowie in externen Kanälen wie sozialen Medien. Ein Verstoß gegen diese Bedingungen kann zu einem vorübergehenden oder dauerhaften Verbot führen.\n\n\n\nAuswirkungen in der Gemeinschaft: Eine schwerwiegende Verletzung von Gemeinschaftsstandards, einschließlich anhaltend unangemessenen Verhaltens.\nFolge: Ein zeitlich begrenztes Verbot jeglicher Art von Interaktion oder öffentlicher Kommunikation mit der Gemeinschaft. Während dieses Zeitraums ist keine öffentliche oder private Interaktion mit den beteiligten Personen erlaubt. Auch keine unaufgeforderte Interaktion mit denjenigen, die den Verhaltenskodex durchsetzen. Ein Verstoß gegen diese Bedingungen kann zu einem dauerhaften Verbot führen.\n\n\n\nAuswirkungen in der Gemeinschaft: Aufzeigen eines Musters von Verletzungen der Gemeinschaftsstandards, einschließlich anhaltend unangemessenen Verhaltens, Belästigung einer Person oder Aggression gegen oder Herabsetzung von Gruppen von Personen.\nFolge: Ein dauerhaftes Verbot jeglicher Art von öffentlicher Interaktion innerhalb der Gemeinschaft.\n\n\n\n\nDieser Verhaltenskodex basiert auf dem Contributor Covenant, Version 2.1, verfügbar unter https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines wurden von Mozillas Code of Conduct Enforcement Ladder inspiriert.\nAntworten auf häufig gestellte Fragen zu diesem Verhaltenskodex finden Sie in den häufig gestellten Fragen unter https://www.contributor-covenant.org/faq (in Englisch). Andere Übersetzungen sind verfügbar unter https://www.contributor-covenant.org/translations.",
+    "crumbs": [
+      "Panel",
+      "Kleingedrucktes",
+      "Verhaltenskodex"
     ]
   }
 ]

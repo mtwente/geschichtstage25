@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/docs/paper.html",
+    "listing": "/index.html",
     "items": [
       "/docs/abstracts/marti.html",
       "/docs/abstracts/zeichenautomaten.html",
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/docs/paper.html",
     "items": [
       "/docs/abstracts/marti.html",
       "/docs/abstracts/zeichenautomaten.html",
