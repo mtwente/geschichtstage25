@@ -1,4 +1,8 @@
-# Changelog
+---
+title: 'Changelog'
+lang: de
+date-modified: last-modified
+---
 
 All notable changes to this project will be documented in this file.
 

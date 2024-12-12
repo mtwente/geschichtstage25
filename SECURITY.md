@@ -1,4 +1,8 @@
-# Security Policy
+---
+title: 'Security Policy'
+lang: de
+date-modified: last-modified
+---
 
 <!--
 ## Supported Versions
@@ -14,7 +18,7 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 -->
 
-## Reporting a Vulnerability
+## Melden einer Schwachstelle
 
 <!--
 Use this section to tell people how to report a vulnerability.
@@ -24,4 +28,4 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 -->
 
-To report a security issue, please email [moritz.twente@unibas.ch] with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue. This project follows a 90 day disclosure timeline.
+Um ein Sicherheitsproblem zu melden, senden Sie bitte eine E-Mail an [moritz.twente@unibas.ch] mit einer Beschreibung des Problems, den Schritten, die Sie unternommen haben, um das Problem zu finden, den betroffenen Versionen und, falls bekannt, den Abhilfemassnahmen für das Problem. Dieses Projekt folgt einer Discloruse-Timeline von 90 Tagen.
