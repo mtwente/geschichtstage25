@@ -12,52 +12,30 @@ citation:
     issued: 2025-07
 ---
 
+## Inhalte
+
+Diese Website dient als Ergänzung zu den offiziellen Publikationskanälen der Schweizerischen Geschichtstage. Diese Seite wurde auf Grundlage des [Open Research Data Templates](https://maehr.github.io/open-research-data-template/) mit Quarto [erstellt](https://github.com/mtwente/geschichtstage25) ([Readme](/docs/readme.qmd)) und wird auf [GitHub Pages](https://pages.github.com/) gehostet. Im Anschluss an die Konferenz werden die Inhalte auf [Zenodo](https://www.zenodo.org/) langzeitarchiviert.
+
 ## Autor*innen
 
-:::: {.columns}
-
-::: {.column width="45%"}
 [**Victoria Grau**](https://orcid.org/0000-0003-4194-0835) <a href="https://orcid.org/0000-0003-4194-0835" target="_blank"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> studierte Urbanistik an der Bauhaus-Universität Weimar und am University College Dublin. Seit 2022 ist sie als wissenschaftliche Mitarbeiterin an der Professur für Raumplanung und Raumforschung der Bauhaus-Universität Weimar in Forschung und Lehre tätig. Im Mittelpunkt ihrer Arbeit steht der Zusammenhang von Planung, Politik und Wirtschaft in europäischen Metropolen im 20. und 21. Jahrhundert. Ihr Promotionsprojekt widmet sich der Entwicklung von Städtebau als Disziplin, Wissenschaft und Politikfeld zwischen 1919 und 1937, mit besonderem Fokus auf die Zeit der NS-Diktatur in Deutschland. Seit 2022 ist sie Mitglied in der Forschungsgruppe Städtebau des Nationalsozialismus im Kontext europäischer Diktaturen (1933--1945).
 
 [victoria.elisabeth.grau@uni-weimar.de](mailto:victoria.elisabeth.grau@uni-weimar.de)
 
 ---
 
-:::
-
-::: {.column width="10%"}
-
-<!-- empty column to create gap -->
-
-:::
-
-::: {.column width="45%"}
 [**Eric Häusler**](https://orcid.org/0000-0002-1530-0562) <a href="https://orcid.org/0000-0002-1530-0562"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut. 
 
 [ehaeusler@ethz.ch](mailto:ehaeusler@ethz.ch)
 
 ---
 
-:::
-
-::: {.column width="45%"}
 [**Jannik Noeske**](https://orcid.org/0000-0001-6314-2880) <a href="https://orcid.org/0000-0001-6314-2880" target="_blank"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut.
 
 [mail@janniknoeske.de](mailto:mail@janniknoeske.de)
 
-:::
+---
 
-::: {.column width="10%"}
-
-<!-- empty column to create gap -->
-
-:::
-
-::: {.column width="45%"}
 [**Moritz Twente**](https://orcid.org/0009-0005-7187-9774) <a href="https://orcid.org/0009-0005-7187-9774"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> arbeitet als Data Steward im Team für Forschungsdatenmanagement im Projekt [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/). Seine Forschungsinteressen betreffen die Schnittmenge von Raum, Planung und Gestaltung -- fokussiert auf Perspektiven der politischen Theorie und Science and Technology Studies. Er studiert Politikwissenschaften und Digital Humanities (M.A.) an der Universität Basel und hat die Studiengänge Urbanistik (B.Sc., Bauhaus-Universität Weimar) sowie Nordeuropa-Studien (B.A., Humboldt-Universität zu Berlin) absolviert.
 
 [moritz.twente@unibas.ch](mailto:moritz.twente@unibas.ch)
-
-:::
-
-::::
