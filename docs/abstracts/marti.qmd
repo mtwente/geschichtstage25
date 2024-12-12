@@ -12,7 +12,7 @@ author:
     email: victoria.elisabeth.grau@uni-weimar.de
     affiliations:
       - Bauhaus-Universität Weimar
-date: 07-09-2025
+date: 07-08-2025
 date-modified: 10-31-2024
 id: "1"
 lang: de
