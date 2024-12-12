@@ -9,7 +9,8 @@ website:
   site-url: https://mtwente.github.io/geschichtstage25/
   repo-url: https://github.com/mtwente/geschichtstage25/
   issue-url: https://github.com/mtwente/geschichtstage25/issues/new/choose
-  repo-actions: [edit, issue]
+  repo-actions: [source, edit, issue]
+  repo-link-target: _blank
   page-navigation: true
   bread-crumbs: true
   back-to-top-navigation: true
@@ -34,13 +35,12 @@ website:
   sidebar:
     contents:
       - section: Kleingedrucktes
-        href: index.qmd
         contents:
           - text: Readme
             href: docs/readme.qmd
           - text: Changelog
             href: CHANGELOG.md
-          - text: Code of Conduct
+          - text: Verhaltenskodex
             href: CODE_OF_CONDUCT.md
           - text: Änderungsvorschläge
             href: CONTRIBUTING.md
@@ -50,8 +50,6 @@ website:
             href: LICENSE-AGPL.md
           - text: Sicherheit
             href: SECURITY.md
-      - href: report.md
-        contents: project-management/*
 
 format:
   html:
