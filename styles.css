@@ -136,10 +136,11 @@ h1 {
 	body {
 		padding: 0;
 	}
-	/* Hide navigation, search, and footer elements */
+	/* Hide navigation, search, secondary nav and footer elements */
 	#quarto-header nav.navbar,
 	#quarto-code-tools-source,
-	#quarto-back-to-top {
+	#quarto-back-to-top,
+	.quarto-secondary-nav {
 		display: none;
 	}
 
