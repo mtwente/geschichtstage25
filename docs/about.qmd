@@ -14,7 +14,7 @@ citation:
 
 ## Inhalte
 
-Diese Website dient als Ergänzung zu den offiziellen Publikationskanälen der Schweizerischen Geschichtstage. Diese Seite wurde auf Grundlage des [Open Research Data Templates](https://maehr.github.io/open-research-data-template/) mit Quarto [erstellt](https://github.com/mtwente/geschichtstage25) ([Readme](/docs/readme.qmd)) und wird auf [GitHub Pages](https://pages.github.com/) gehostet. Im Anschluss an die Konferenz werden die Inhalte auf [Zenodo](https://www.zenodo.org/) langzeitarchiviert.
+Diese Website dient als private Ergänzung zu den offiziellen Publikationskanälen der Schweizerischen Geschichtstage. Sie wurde auf Grundlage des [Open Research Data Templates](https://maehr.github.io/open-research-data-template/) mit Quarto [erstellt](https://github.com/mtwente/geschichtstage25) ([Readme](/docs/readme.qmd)) und wird auf [GitHub Pages](https://pages.github.com/) gehostet. Im Anschluss an die Konferenz werden die Inhalte auf [Zenodo](https://www.zenodo.org/) langzeitarchiviert.
 
 ## Autor*innen
 
