@@ -16,7 +16,7 @@ listing:
 date-modified: last-modified
 ---
 
-Die Konferenz findet an der Universität Luzern statt. Das Panel dauert 90 Minuten, Zeit und Ort sind aktuell noch nicht festgelegt (Stand: Dezember 2024).
+Das Panel findet an der Universität Luzern im Rahmen der Schweizerischen Geschichtstage statt. Es beginnt am Freitag, 11.07.2025 um 09:15 Uhr in Raum HS 3 (EG) und dauert 90 Minuten (Änderungen vorbehalten, siehe [Konferenzwebsite](https://www.geschichtstage.ch)).
 
 ## Paper
 
