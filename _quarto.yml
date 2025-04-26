@@ -66,4 +66,4 @@ format:
 
 freeze: true
 
-editor: visual
+editor: source
